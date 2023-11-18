@@ -8,6 +8,12 @@
 <a id="1"></a>
 <div style= "border-radius:10px; border:#787878 solid; padding: 15px; background-color: #E7E5E4; font-size:100%; text-align:left">
 
+<div align = "center">
+  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15hFXSH7WkueGAq0z7G0rGMcvrXYStVNQ?usp=sharing)
+<br>
+</div>
+
 <h2 style="color:#E83500"> ▶️ Introduction and brief introduction of data</font></h2>
 
 **Introduction**
